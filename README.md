@@ -1,2 +1,5 @@
-# NLHC.CyberCore.Redirect
-This is an azure function for NLHC CyberCore project. It is a Redirect for Jobber for now
+# NLHC.CyberCore.Functions
+This is a NLHC CyberCore Azure Functions project. 
+
+It contains the current functiosn:
+-Save AuthorizationCode when redirect is called
